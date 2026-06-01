@@ -66,6 +66,6 @@ A student can have multiple marks if added more than once via the **Add Student*
 
 ## Notes
 
-- Data is stored **in memory only** — all records are lost when the program exits.
+- Data is stored **in memory only** , all records are lost when the program exits.
 - The **Update** option replaces all existing marks for a student with a single new value.
 - Student names are **case-sensitive** (`"alice"` and `"Alice"` are treated as different students).
